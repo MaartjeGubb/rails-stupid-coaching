@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+ #coachAnswer {
+  background-color: rgb(255, 255, 137);
+  width: 700px;
+  margin: 20px;
+  padding: 0px 10px;
+  border-left: 5px solid rgb(147, 125, 125);
+ }
+
+ #yourAnswer {
+  width: 700px;
+  margin: 20px;
+  padding: 0px 10px;
+
+ }
+
+h1, h6 {
+  margin: 20px;
+}
+
+form {
+  margin: 20px;
+}
